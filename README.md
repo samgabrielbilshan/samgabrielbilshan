@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to work on Electronics, Data Science/Analytics, Data Visualization etc.
 
 ### About Me
-- 👨‍💻 I'm currently a second-year student at Rajalakshmi Institute of Technology pursuing a Bachelor's Degree in Electronics and Communication Engineering.
-- 🌱 I’m constantly learning and exploring new technologies.
-- 📫 Reach me through my LinkedIn or Email!
+-  I'm currently a second-year student at Rajalakshmi Institute of Technology pursuing a Bachelor's Degree in Electronics and Communication Engineering.
+-  I’m constantly learning and exploring new technologies.
+-  Reach me through my LinkedIn or Email!
 
 ### Technologies & Tools
 - **Languages:** Python, Java, HTML, CSS
