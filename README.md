@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sam Gabriel Bilshan👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to work on Electronics, Data Science/Analytics, Data Visualization etc.
 
