@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**samgabrielbilshan/samgabrielbilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves to work on Electronics, Data Science/Analytics, Data Visualization etc.
 
-Here are some ideas to get you started:
+### About Me
+- 👨‍💻 I'm currently a second-year student at Rajalakshmi Institute of Technology pursuing a Bachelor's Degree in Electronics and Communication Engineering.
+- 🌱 I’m constantly learning and exploring new technologies.
+- 📫 Reach me through my LinkedIn or Email!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Tools
+- **Languages:** Python, Java, HTML, CSS
+- **Frameworks:** Streamlit, React
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, VSCode, pip
+
+### Let's Connect!
+Feel free to reach out if you have any questions or if you're interested in collaborating on a project. I'm always open to learning and improving!
+
+---
+
